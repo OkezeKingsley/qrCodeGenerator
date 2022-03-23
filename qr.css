@@ -1,0 +1,41 @@
+body{background-color:black;
+     text-align:center;
+     color:white;}
+
+.container{width:90%;
+           margin:auto;}
+h1{text-align:center;
+   font-size:18px;}
+
+.parent{text-align:center;
+        width:250px;
+        margin-top:30px; 
+        border:2px red solid;
+        margin:auto; 
+        border-radius:10px;
+        background-color:white;
+        padding-top:10px;
+        padding-bottom:20px;
+        padding-right:10px;
+        padding-left:10px;}
+
+.input-section{display:flex;
+               margin-bottom:5px;
+               box-sizing:border-box;}
+
+.input{flex-basis:80%;
+       box-sizing:border-box;}
+
+.btn{flex-basis:20%;
+     box-sizing:border-box; }
+
+#qr-data{width:100%;
+          padding:10px 0}
+#qrcode{margin-top:10px;
+        margin:auto;
+        padding-top:5px; }
+
+button{width:100%;
+      padding:10px 0}
+
+
